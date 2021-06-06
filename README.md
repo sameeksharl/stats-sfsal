@@ -1,7 +1,7 @@
-# stats-sfsal
+# Stats-SFSAL
 
 
-# Abstract:
+## Abstract:
 
 The research conducted, models different parts of the salaries of various job titles in the city
 of San Francisco. For example, you may compare different aspects of the salary of a police
@@ -19,7 +19,7 @@ plots are used to aptly visualize the data and interpret it efficiently. A null 
 alternate hypothesis was assumed and by performing a z-test, the null hypothesis was seen to
 be plausible. It has also been seen that every column is positively correlated with each other.
 
-# Introduction
+## Introduction
 
 If you were to live in a big city like San Francisco, you would probably analyze many
 different things about the city and one of the primary analyses that needs to be done is that of
